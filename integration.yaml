@@ -1,0 +1,5 @@
+---
+platform-status-frontend:
+  platform: ECS
+hello-flask:
+  platform: Heritage
